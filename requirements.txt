@@ -46,13 +46,13 @@ pytz==2021.3
 PyWavelets==1.1.1
 
 pyzmq==23.1.0
-scikit-image==0.18.3
+scikit-image
 scikit-learn
 scipy
-six==1.16.0
-skia-python==87.3
-sklearn==0.0
-stack-data==0.2.0
+six
+skia-python
+sklearn
+stack-data
 threadpoolctl==3.0.0
 tifffile==2021.10.12
 tornado==6.1

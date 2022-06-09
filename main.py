@@ -25,7 +25,7 @@ model=pickle.load(open('model.pkl','rb'))
 
 @app.route('/predict', methods=['GET','POST'])
 def predict():
-    try:   
+    try:
         files = request.files
         
         file = files.get('file')
